@@ -1,6 +1,6 @@
 aws_region          = "eu-north-1"
 vpc_cidr            = "10.0.0.0/18"
-vpc_name            = "new-1"
+vpc_name            = "dula"
 subnet-1_cidr       = "10.0.0.0/25"
 subnet-1_name       = "33333"
 subnet-2_cidr       = "10.0.0.128/25"
