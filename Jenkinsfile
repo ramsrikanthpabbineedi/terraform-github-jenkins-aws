@@ -9,7 +9,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 echo "📦 Checking out Terraform code..."
-                git branch: 'main', url: 'https://github.com/ramsrikanthpabbineedi/main-new.git'
+                git branch: 'main', url: 'https://github.com/ramsrikanthpabbineedi/terraform-github-jenkins-aws.git'
             }
         }
 
